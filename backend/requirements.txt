@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-multipart
+langchain
+langchain-community
+langchain-groq
+chromadb
+sentence-transformers
+PyMuPDF
+pytesseract
+langdetect
+googletrans==4.0.0-rc1
+sqlalchemy
+pydantic
+pydantic-settings
+python-dotenv
+pillow
